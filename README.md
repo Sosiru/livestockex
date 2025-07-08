@@ -300,9 +300,8 @@ console.log(creditScore);
 ## Support
 
 For technical support and API access:
-- Email: support@dimeapp.co.ke
-- Documentation: https://docs.dimeapp.co.ke
-- Status Page: https://status.dimeapp.co.ke
+- Email: stephenosiru@gmail.com
+
 
 ---
 
