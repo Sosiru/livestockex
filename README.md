@@ -43,8 +43,8 @@ POST https://api.dimeapp.co.ke/api/partner/token/
 ### Sample Request
 ```json
 {
-  "consumer_key": "n70D33@L@5}m1s?qQ;_A+X40WPZek]Q#@YNR50hB",
-  "consumer_secret": "_KwMN0t%6fLbZ+2_+_85"
+  "consumer_key": "xxxxxxxxx",
+  "consumer_secret": "xxxxxxxxxxxxxx"
 }
 ```
 
@@ -53,7 +53,7 @@ POST https://api.dimeapp.co.ke/api/partner/token/
 {
   "code": "200.001",
   "data": {
-    "token": "OWVkYTg0MDdkNjQxM2M0MjdmMmZlZGM2ODc3MGIy",
+    "token": "xxxxxxxxxxxxxxxxx",
     "expires_at": "1751984041"
   }
 }
